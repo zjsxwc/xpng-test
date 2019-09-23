@@ -10,6 +10,16 @@ See more:
 
 ## Overview
 
+### preinstall
+
+clone https://github.com/oatpp/oatpp
+and run to install cmake pkg
+```
+         # From oatpp/build forlder
+         cmake ..
+         make install
+```
+
 ### Project layout
 
 ```
